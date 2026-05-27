@@ -1,0 +1,9 @@
+# CRCNS.org 'pmd-1' dataset files
+# To use this for fetching files, comment out files that are
+# not needed by putting a '#' as the first character on the line (default mode)
+# or put a '+' as the first character to specifiy files to be fetched (+ mode).
+# mode='default' (change to '+' for + mode).
+ data_and_scripts.tar.gz	403353201 (384.6 MB)
+ docs/crcns_pmd-1_data_description.docx	44026 (42.9 KB)
+ docs/crcns_pmd-1_data_description.pdf	129956 (126.9 KB)
+ checksums.md5	250
